@@ -1,0 +1,1 @@
+Research for personal open source projects that involve AI or mathematical methods that provide a basis for AI/cognitive computation.
